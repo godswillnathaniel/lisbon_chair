@@ -1,0 +1,25 @@
+{
+  "name": "lisbon_chair",
+  "version": "1.0.0",
+  "description": "project from Jonas udemy HTML and CSS course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godswillnathaniel/lisbon_chair.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Web",
+    "design"
+  ],
+  "author": "Godswill Nathaniel (mazi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/godswillnathaniel/lisbon_chair/issues"
+  },
+  "homepage": "https://github.com/godswillnathaniel/lisbon_chair#readme"
+}
